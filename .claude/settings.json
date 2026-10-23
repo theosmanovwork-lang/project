@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "ponystack": {
+      "source": {
+        "source": "github",
+        "repo": "AyanbekDos/ponystack"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ponystack@ponystack": true
+  }
+}
